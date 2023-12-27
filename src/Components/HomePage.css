@@ -1,0 +1,26 @@
+h1,h2{
+    text-align: center;
+}
+nav ul {
+        list-style: none;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        background-color: black;
+        
+      }
+nav li {
+        margin: 0 40px;
+        margin-left: 60px;
+        cursor: pointer;
+        color: white;
+        font-size: 20px;
+      }
+footer{
+    margin-top: 23%;
+    text-align: center;
+}
+p{
+    margin-top: 10%;
+    text-align: center;
+}
