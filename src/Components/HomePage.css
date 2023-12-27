@@ -6,16 +6,18 @@ nav ul {
         padding: 0;
         display: flex;
         justify-content: center;
-        background-color: black;
+        margin-top: -35px;
+        margin-left: -14%;
         
       }
 nav li {
         margin: 0 40px;
-        margin-left: 60px;
+        margin-left: 10px;
         cursor: pointer;
-        color: white;
+        color: black;
         font-size: 20px;
       }
+
 footer{
     margin-top: 23%;
     text-align: center;
@@ -23,4 +25,24 @@ footer{
 p{
     margin-top: 10%;
     text-align: center;
+}
+nav ol {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    margin-top: -45px;
+    margin-left: 70%;
+    
+  }
+.left{
+    margin-left: 66%;
+    text-decoration: underline;
+    padding-left: -17px;
+}
+ol li{
+    margin-left: -6px;
+}
+.home{
+    background-attachment: fixed;
 }
